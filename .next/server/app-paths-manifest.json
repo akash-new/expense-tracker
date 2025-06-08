@@ -1,8 +1,0 @@
-{
-  "/budgets/page": "app/budgets/page.js",
-  "/charts/page": "app/charts/page.js",
-  "/expenses/page": "app/expenses/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
-  "/page": "app/page.js",
-  "/savings-ai/page": "app/savings-ai/page.js"
-}
